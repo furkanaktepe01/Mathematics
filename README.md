@@ -3,3 +3,5 @@ Algebra: https://www.dropbox.com/scl/fo/3ipmvsllylp79oym0ewbs/h?dl=0&rlkey=fgsmq
 Topology: https://www.dropbox.com/scl/fo/96ypoadatequei6gaivw8/h?dl=0&rlkey=c3t9kw7d7r0c99mu1wyuc5wn9
 
 Analysis: https://www.dropbox.com/scl/fo/0j42rxz1dsjw74rhs4jt4/h?dl=0&rlkey=g8e9qcvefr3xv46tgf95sfqme
+
+Slice Knots: https://www.dropbox.com/s/7nnzoqor3qshkbs/Slice%20Knots.pdf?dl=0
